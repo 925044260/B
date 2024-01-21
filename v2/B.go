@@ -1,3 +1,3 @@
 package B
 
-var hello = `English: en: Hello, world.`
+var Hello = `English: en: Hello, world.`
