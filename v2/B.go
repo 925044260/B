@@ -1,3 +1,3 @@
-package github.com/925044260/B
+package B
 
 var hello = `English: en: Hello, world.`
