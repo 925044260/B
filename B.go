@@ -1,8 +1,5 @@
 package B
 
-
-var Hello = `English: en: Hello, world.`
-
 import "fmt"
 
 var Hello = `English: en: Hello, world.`
